@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7be208d-0615-4327-8706-00a18653f5e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../maheshdjango_project/firstapp/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maheshdjango_project/firstapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login_app/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/python_git-leran.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/python_git-leran.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment15.py" beforeDir="false" afterPath="$PROJECT_DIR$/../funtions codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../function.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="login_api" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IHN7mXfb7qQ3NFL2yeDSMG58Wb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/venka/PycharmProjects/python_git-leran/smartcab_project&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7be208d-0615-4327-8706-00a18653f5e0" name="Changes" comment="" />
+      <created>1669834383966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669834383966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="login_api" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
